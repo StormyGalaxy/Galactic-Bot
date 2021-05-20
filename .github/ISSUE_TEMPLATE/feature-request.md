@@ -2,7 +2,7 @@
 name: Feature Request
 about: Request a feature to be added to the bot
 title: ''
-labels: enhancement
+labels: ''
 assignees: ''
 
 ---
