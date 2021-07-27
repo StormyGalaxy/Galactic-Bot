@@ -33,3 +33,9 @@ Welcome to the Galactic Bot Wiki!
    :caption: Invite The Bot
 
    invite/Invite The Bot
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Bot Commands
+
+   commands/Bot Commands
