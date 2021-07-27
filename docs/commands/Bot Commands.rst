@@ -98,7 +98,7 @@ Audio
 ``g^volume`` Set the volume, 1% - 150%.
 
 ------------
-Away:
+Away
 ------------
 
 ``g^away`` Tell the bot you're away or back.
@@ -124,19 +124,19 @@ Away:
 .. warning:: Mods, Admins and Bot Owner are immune to this. (``g^toggleaway``)
 
 ------------
-Bank:
+Bank
 ------------
 
 ``g^bankset`` Base command for bank settings.
 
 ------------
-CategoryHelp:
+CategoryHelp
 ------------
 
 ``g^categoryhelp`` Get help for category.
 
 ------------
-Cleanup:
+Cleanup
 ------------
 
 ``g^cleanup`` Base command for deleting messages.
