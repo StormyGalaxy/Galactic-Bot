@@ -41,3 +41,10 @@ Welcome to the Galactic Bot Wiki!
    commands/Bot Commands
    
 .. attention:: The docs are still in the works!
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
