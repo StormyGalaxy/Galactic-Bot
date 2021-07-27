@@ -4,7 +4,7 @@ Bot Commands
 .. note:: The bots default prefix is ``g^``
 
 ------------
-Admin:
+Admin
 ------------
 ``g^addrole`` Add a role to a user.
 
@@ -17,13 +17,13 @@ Admin:
 ``g^selfroleset`` Manage selfroles.
 
 ------------
-Invite:
+Invite
 ------------
 
 ``g^invite`` Invite Galactic to your server
 
 ------------
-Lock:
+Lock
 ------------
 ``g^lock`` Lock @​everyone from sending messages.
 
@@ -36,7 +36,7 @@ Lock:
 ``g^unlockserver`` Unlock the entire server for @​everyone
 
 ------------
-Uptime:
+Uptime
 ------------
 ``g^uptime`` Shows Galactic's uptime.
 
