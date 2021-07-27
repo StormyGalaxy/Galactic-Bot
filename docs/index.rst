@@ -30,8 +30,6 @@ Welcome to the Galactic Bot Wiki!
 
 .. toctree::
    :maxdepth: 2
-   :caption: SlashTags Documentation
+   :caption: Invite The Bot
 
-   slashtags/slashtags
-   slashtags/slash_arguments
-   slashtags/example_slashtags
+   invite/invite
