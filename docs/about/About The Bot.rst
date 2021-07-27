@@ -4,7 +4,9 @@ About
 ------------
 What is Galactic?
 ------------
+
 Galactic is a multipurpose bot with tons of moderation, automod, music, economy, and counting commands. You will never need another bot again!
+
 ------------
 Why should you get Galactic?
 ------------
