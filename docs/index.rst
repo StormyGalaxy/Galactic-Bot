@@ -6,10 +6,6 @@
 Welcome to the Galactic Bot Wiki!
 =====================================
 
-.. image:: https://i.imgur.com/dIOX12K.png
-    :target: https://github.com/phenom4n4n/phen-cogs
-    :alt: Phen-Cogs
-
 .. image:: https://discordapp.com/api/guilds/836363260922953729/widget.png?style=shield
     :target: https://discord.gg/uRvPVf7Kcp
     :alt: Discord Server
@@ -39,15 +35,3 @@ Welcome to the Galactic Bot Wiki!
    slashtags/slashtags
    slashtags/slash_arguments
    slashtags/example_slashtags
-
-.. toctree::
-    :caption: Credits
-
-    credits
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
