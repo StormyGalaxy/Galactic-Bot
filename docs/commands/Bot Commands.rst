@@ -3,23 +3,42 @@ Bot Commands
 =========
 .. note:: The bots default prefix is ``g^``
 
+------------
 Admin:
+------------
 ``g^addrole`` Add a role to a user.
+
 ``g^editrole`` Edit role settings.
+
 ``g^removerole`` Remove a role from a user.
-selfrole Add or remove a selfrole from yourself.
-selfroleset Manage selfroles.
-serverlock Lock a bot to its current servers only.
-AdvancedInvite:
-invite Invite Galactic to your server
-AdvancedLock:
-lock Lock @​everyone from sending messages.
-lockserver Lock @​everyone from sending messages in the entire...
-setlock Various Lock settings.
-unlock Unlock the channel for @​everyone.
-unlockserver Unlock the entire server for @​everyone
-AdvancedUptime:
-uptime Shows Galactic's uptime.
+
+``g^selfrole`` Add or remove a selfrole from yourself.
+
+``g^selfroleset`` Manage selfroles.
+
+------------
+Invite:
+------------
+
+``g^invite`` Invite Galactic to your server
+
+------------
+Lock:
+------------
+``g^lock`` Lock @​everyone from sending messages.
+
+``g^lockserver`` Lock @​everyone from sending messages in the entire server
+
+``g^setlock`` Various Lock settings.
+
+``g^unlock`` Unlock the channel for @​everyone.
+
+``g^unlockserver`` Unlock the entire server for @​everyone
+
+------------
+Uptime:
+------------
+``g^uptime`` Shows Galactic's uptime.
 
 ------------
 Work in Progress
