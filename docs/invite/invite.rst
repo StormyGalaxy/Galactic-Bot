@@ -5,13 +5,13 @@ Invite The Bot
 Invite the Bot With Permissions
 ------------
 
-[Invite with Admin Perms](https://discord.com/oauth2/authorize?client_id=844762423389978654&scope=bot+applications.commands&permissions=8589934591)
+_`Invite with Admin Perms <https://discord.com/oauth2/authorize?client_id=844762423389978654&scope=bot+applications.commands&permissions=8589934591>`_
 
 ------------
 Invite the Bot Without Permissions
 ------------
 
-[Invite with No Perms](https://discord.com/oauth2/authorize?client_id=844762423389978654&scope=bot+applications.commands&permissions=0)
+_`Invite with No Perms <https://discord.com/oauth2/authorize?client_id=844762423389978654&scope=bot+applications.commands&permissions=0>`_
 
 ------------
 Which Should I Use?
