@@ -1,0 +1,6 @@
+beautifulsoup4
+recommonmark
+Red-DiscordBot
+Sphinx
+sphinx_rtd_theme
+TagScript
