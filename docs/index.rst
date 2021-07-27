@@ -39,3 +39,5 @@ Welcome to the Galactic Bot Wiki!
    :caption: Bot Commands
 
    commands/Bot Commands
+   
+.. attention:: The docs are still in the works!
