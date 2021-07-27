@@ -32,4 +32,4 @@ Welcome to the Galactic Bot Wiki!
    :maxdepth: 2
    :caption: Invite The Bot
 
-   invite/invitebot
+   invite/Invite The Bot
