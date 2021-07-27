@@ -14,11 +14,3 @@ Galactic has a ton of features that the other bots have, but you dont have to pa
 You can always suggest more features on the support server, and I am always active on it as well. I am sure that you will like this bot, so I don't have any fears.
 
 .. attention:: The docs are still in the works!
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
