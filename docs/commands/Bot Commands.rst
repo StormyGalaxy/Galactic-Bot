@@ -120,6 +120,7 @@ Away:
 ``g^streaming`` Set an automatic reply when you're streaming.
 
 ``g^toggleaway`` Toggle away messages on the whole server or a specific guild member
+
 .. warning:: Mods, Admins and Bot Owner are immune to this.
 
 ------------
