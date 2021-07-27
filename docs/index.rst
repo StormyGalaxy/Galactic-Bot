@@ -3,15 +3,15 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Phen-Cogs's documentation!
+Welcome to the Galactic Bot Wiki!
 =====================================
 
 .. image:: https://i.imgur.com/dIOX12K.png
     :target: https://github.com/phenom4n4n/phen-cogs
     :alt: Phen-Cogs
 
-.. image:: https://discordapp.com/api/guilds/631306089366945821/widget.png?style=shield
-    :target: https://discord.gg/cGJ8JmX
+.. image:: https://discordapp.com/api/guilds/836363260922953729/widget.png?style=shield
+    :target: https://discord.gg/uRvPVf7Kcp
     :alt: Discord Server
 
 .. image:: https://img.shields.io/pypi/pyversions/Red-Discordbot
@@ -22,24 +22,15 @@ Welcome to Phen-Cogs's documentation!
     :target: https://github.com/Rapptz/discord.py
     :alt: discord.py
 
-.. image:: https://img.shields.io/badge/code%20style-black-000000.svg
-    :target: https://github.com/ambv/black
-    :alt: Code Style: Black
-
-.. image:: https://readthedocs.org/projects/phen-cogs/badge/?version=latest
-    :target: https://phen-cogs.readthedocs.io/en/latest/?badge=latest
+.. image:: https://readthedocs.org/projects/galactic-bot/badge/?version=latest
+    :target: https://galactic-bot.readthedocs.io/en/latest/?badge=latest
     :alt: Documentation Status
 
 .. toctree::
    :maxdepth: 2
-   :caption: Tags Documentation
+   :caption: About
 
-   tags/blocks
-   tags/tse_blocks
-   tags/default_variables
-   tags/parsing_blocks
-   tags/example_tags
-   tags/owner_guide
+   about/About The Bot
 
 .. toctree::
    :maxdepth: 2
