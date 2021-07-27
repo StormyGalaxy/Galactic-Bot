@@ -121,7 +121,7 @@ Away:
 
 ``g^toggleaway`` Toggle away messages on the whole server or a specific guild member
 
-.. warning:: Mods, Admins and Bot Owner are immune to this.
+.. warning:: Mods, Admins and Bot Owner are immune to this. (``g^toggleaway``)
 
 ------------
 Bank:
@@ -140,6 +140,8 @@ Cleanup:
 ------------
 
 ``g^cleanup`` Base command for deleting messages.
+
+
 
 ------------
 Work in Progress
