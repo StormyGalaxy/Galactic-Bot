@@ -377,13 +377,220 @@ PressF
 
 ``g^pressf`` Pay respects by pressing F
 
+------------
+Raffle
+------------
 
+``g^raffle`` Raffle group command
 
+``g^setraffle`` Set Raffle group command
 
+------------
+ReTrigger
+------------
 
+``g^retrigger`` Setup automatic triggers based on regular expressions
+
+------------
+RemindMe
+------------
+
+``g^forgetme`` Remove all of your upcoming reminders.
+
+``g^reminder`` Manage your reminders.
+
+``g^remindme`` Create a reminder with optional reminder text.
+
+``g^remindmeset`` Manage RemindMe settings.
+
+------------
+Reports
+------------
+
+``g^report`` Report a member
+
+``g^reportdm`` Enables/Disables the messages the bot sends on report
+
+``g^reportset`` Manage reports system
+
+------------
+RoleTools
+------------
+
+``g^roletools`` Role tools commands
+
+------------
+Say
+------------
+
+``g^interact`` Start receiving and sending messages as the bot through DM.
+
+``g^say`` Make the bot say what you want in the desired channel.
+
+``g^sayad`` Same as say command, except it deletes the said message after a set number of seconds.
+
+``g^sayd`` Same as say command, except it deletes your message.
+
+``g^saym`` Same as say command, except role and mass mentions are enabled.
 
 
 ------------
-Work in Progress
+ServerStats
 ------------
-This will take me a lot of time, so I will be updating it throughout the week
+
+``g^avatar`` Display a users avatar in chat
+
+``g^botstats`` Display stats about the bot
+
+``g^channeledit`` Modify channel options
+
+``g^channelstats`` Gets total messages in a specific channel as well as the user who has posted the most in that channel
+
+``g^emoji`` Post a large size emojis in chat
+
+``g^getguild`` Display info about servers the bot is on
+
+``g^getguilds`` Display info about multiple servers
+
+``g^getreactions`` Gets a list of all reactions from specified message and displays the user ID, Username, and Discriminator and the emoji name
+
+``g^getroles`` Displays all roles their ID and number of members in order of hierarchy 
+
+``g^guildedit`` Edit various guild settings
+
+``g^guildemojis`` Display all server emojis in a menu that can be scrolled through
+
+``g^nummembers`` Display number of users on a server
+
+``g^pruneroles`` Perform various actions on users who haven't spoken in x days
+
+``g^serverstats`` Gets total messages on the server and displays each channel separately as well as the user who has posted the most in each channel
+
+``g^topic`` Sets a specified channels topic
+
+``g^topmembers`` Lists top members on the server by join date
+
+``g^whois`` Display servers a user shares with the bot
+
+------------
+Shop
+------------
+
+``g^inventory`` Displays your purchased items.
+
+``g^setshop`` Shop Settings group command
+
+``g^shop`` Shop group command
+
+------------
+SlashTags
+------------
+
+``g^slashtag`` Slash Tag management with TagScript.
+
+------------
+SmartReact
+------------
+
+``g^addreact`` Add an auto reaction to a word
+
+``g^delreact`` Delete an auto reaction to a word
+
+``g^listreact`` List reactions for this server
+
+------------
+Strikes
+------------
+
+``g^allstrikes`` Show all recent individual strikes.
+
+``g^delstrike`` Remove a single strike by its ID.
+
+``g^delstrikes`` Remove all strikes from a member.
+
+``g^strike`` Strike a user.
+
+``g^strikecounts`` Show the strike count for multiple users.
+
+``g^strikes`` Show all previous strikes for a user.
+
+------------
+Suggestion
+------------
+
+``g^addreason`` Add a reason to a rejected suggestion.
+
+``g^approve`` Approve a suggestion.
+
+``g^reject`` Reject a suggestion. Reason is optional.
+
+``g^showsuggestion`` Show a suggestion.
+
+``g^suggest`` Suggest something. Message is required.
+
+``g^suggestset`` Various Suggestion settings.
+
+------------
+Tags
+------------
+
+``g^invoketag`` Manually invoke a tag with its name and arguments.
+
+``g^tag`` Tag management with TagScript.
+
+``g^tags`` View all tags and aliases.
+
+------------
+TempRole
+------------
+
+``g^temprole`` TempRole Commands
+
+------------
+TemplatePosts
+------------
+
+``g^templateposts`` Posts w/ Template Requirements
+
+------------
+Tips
+------------
+
+``g^tips`` Toggle and setup tips.
+
+------------
+Trivia
+------------
+
+``g^trivia`` Start trivia session on the specified category.
+
+``g^triviaset`` Manage Trivia settings.
+
+------------
+UserInfo
+------------
+
+``g^userinfo`` Show userinfo with some more detail.
+
+------------
+Warnings
+------------
+
+``g^actionlist`` List all configured automated actions for Warnings.
+
+``g^mywarnings`` List warnings for yourself.
+
+``g^reasonlist`` List all configured reasons for Warnings.
+
+``g^unwarn`` Remove a warning from a user.
+
+``g^warn`` Warn the user for the specified reason.
+
+``g^warnaction`` Manage automated actions for Warnings.
+
+``g^warnings`` List the warnings for the specified user.
+
+``g^warningset`` Manage settings for Warnings.
+
+``g^warnreason`` Manage warning reasons.
+
