@@ -26,19 +26,19 @@ Welcome to the Galactic Bot Wiki!
    :maxdepth: 2
    :caption: About
 
-   about/About The Bot
+   about/AboutTheBot
 
 .. toctree::
    :maxdepth: 2
    :caption: Invite The Bot
 
-   invite/Invite The Bot
+   invite/InviteTheBot
 
 .. toctree::
    :maxdepth: 2
    :caption: Bot Commands
 
-   commands/Bot Commands
+   commands/BotCommands
    
 .. attention:: The docs are still in the works!
 
