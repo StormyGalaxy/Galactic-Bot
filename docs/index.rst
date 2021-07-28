@@ -39,5 +39,11 @@ Welcome to the Galactic Bot Wiki!
    :caption: Bot Commands
 
    commands/BotCommands
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Vote for Galactic
+
+   vote
    
 .. attention:: The docs are still in the works, and this is **NOT** the final product/docs
