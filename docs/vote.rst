@@ -4,7 +4,7 @@ Vote for Galactic
 
 `Top.gg <https://top.gg/bot/844762423389978654/vote>`_
 
-``Reward in the support server for voting``
+``Reward in the support server for voting on the website above``
 
 `dblist.xyz <https://dblist.xyz/bot/844762423389978654/vote>`_
 
@@ -20,17 +20,15 @@ Vote for Galactic
 
 `Discordbotlist <https://discordbotlist.com/bots/galactic-9445/upvote>`_
 
-``Reward in the support server for voting``
+``Reward in the support server for voting on the website above``
 
 `AstraBotList <https://astrabots.xyz/bot/844762423389978654/vote>`_
 
 `Bots For Discord <https://discords.com/bots/bot/844762423389978654/vote>`_
 
-``Reward in the support server for voting``
+``Reward in the support server for voting on the website above``
 
 `Discord Boats <https://discord.boats/bot/844762423389978654/vote>`_
-
-``Reward in the support server for voting``
 
 .. warning:: The site above has not approved the bot, therefor you can not vote on it yet.
 
