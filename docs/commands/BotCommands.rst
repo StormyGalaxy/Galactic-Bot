@@ -183,6 +183,203 @@ Ping
 
 ``g^ping`` View bot latency.
 
+------------
+Defender
+------------
+
+``g^alert`` Alert the staff members
+
+``g^defender`` Defender commands reserved to staff
+
+``g^dset`` Defender system settings
+
+``g^silence`` Enables server wide message autodeletion for the specified rank (and below)
+
+``g^vaporize`` Gets rid of bad actors in a quick and silent way
+
+``g^voteout`` Initiates a vote to expel a user from the server
+
+------------
+Economy
+------------
+
+``g^bank`` Base command to manage the bank.
+
+``g^economyset`` Base command to manage Economy settings.
+
+``g^leaderboard`` Print the leaderboard.
+
+``g^payday`` Get some free currency.
+
+``g^payouts`` Show the payouts for the slot machine.
+
+``g^slot`` Use the slot machine.
+
+------------
+ExtendedModLog
+------------
+
+``g^modlog`` Toggle various extended modlog notifications
+
+------------
+Filter
+------------
+
+``g^filter`` Base command to add or remove words from the server filter.
+
+``g^filterset`` Base command to manage filter settings.
+
+------------
+General
+------------
+
+``g^8`` Ask 8 ball a question.
+
+``g^choose`` Choose between multiple options.
+
+``g^flip`` Flip a coin... or a user.
+
+``g^lmgtfy`` Create a lmgtfy link.
+
+``g^roll`` Roll a random number.
+
+``g^rps`` Play Rock Paper Scissors.
+
+``g^serverinfo`` Show server information.
+
+``g^stopwatch`` Start or stop the stopwatch.
+
+``g^urban`` Search the Urban Dictionary.
+
+------------
+Image
+------------
+
+``g^gif`` Retrieve the first search result from Giphy.
+
+``g^gifr`` Retrieve a random GIF from a Giphy search.
+
+``g^imgur`` Retrieve pictures from Imgur.
+
+------------
+BotStats
+------------
+
+``g^botstat`` Get stats about the bot including messages sent and received and other info.
+
+------------
+Leveler
+------------
+
+``g^levelerset`` Configuration commands.
+
+``g^profile`` Show your leveler progress. Default to yourself.
+
+``g^profileset`` Change settings of your profile.
+
+``g^register`` Allow you to start earning experience !
+
+``g^toplevel`` Show the server leaderboard !
+
+------------
+LogsFrom
+------------
+
+``g^logsfrom`` Logs the specified channel into a file, then uploads the file.
+
+------------
+MemberCount
+------------
+
+``g^membercount`` Get count of all members + humans and bots separately.
+
+------------
+Mod
+------------
+
+``g^ban`` Ban a user from this server and optionally delete days of messages.
+
+``g^kick`` Kick a user.
+
+``g^massban`` Mass bans user(s) from the server.
+
+``g^modset`` Manage server administration settings.
+
+``g^names`` Show previous names and nicknames of a member.
+
+``g^rename`` Change a member's nickname.
+
+``g^slowmode`` Changes channel's slowmode setting.
+
+``g^softban`` Kick a user and delete 1 day's worth of their messages.
+
+``g^tempban`` Temporarily ban a user from this server.
+
+``g^unban`` Unban a user from this server.
+
+``g^voiceban`` Ban a user from speaking and listening in the server's voice channels.
+
+``g^voicekick`` Kick a member from a voice channel.
+
+``g^voiceunban`` Unban a user from speaking and listening in the server's voice channels.
+
+------------
+ModLog
+------------
+
+``g^case`` Show the specified case.
+
+``g^casesfor`` Display cases for the specified member.
+
+``g^listcases`` List cases for the specified member.
+
+``g^modlogset`` Manage modlog settings.
+
+``g^reason`` Specify a reason for a modlog case.
+
+------------
+MsgTracker
+------------
+
+``g^messages`` Displays how many messages the user has.
+
+``g^msgleaderboard`` Message Tracker Leaderboard, displays all the members
+
+``g^msgtop10`` Displays the top 10 members in the leaderboard
+
+``g^mtset`` Message Count Settings.
+
+``g^trackignore`` Ignore yourself from message tracking.
+
+------------
+Mutes
+------------
+
+``g^activemutes`` Displays active mutes on this server.
+
+``g^mute`` Mute users.
+
+``g^mutechannel`` Mute a user in the current text channel.
+
+``g^muteset`` Mute settings.
+
+``g^unmute`` Unmute users.
+
+``g^unmutechannel`` Unmute a user in this channel.
+
+``g^voicemute`` Mute a user in their current voice channel.
+
+``g^voiceunmute`` Unmute a user in their current voice channel.
+
+------------
+PressF
+------------
+
+``g^pressf`` Pay respects by pressing F
+
+
+
+
 
 
 
