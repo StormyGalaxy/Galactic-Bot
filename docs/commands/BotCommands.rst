@@ -141,6 +141,49 @@ Cleanup
 
 ``g^cleanup`` Base command for deleting messages.
 
+------------
+Core
+------------
+
+``g^autoimmune`` Commands to manage server settings for immunity from automated actions.
+
+``g^command`` Commands to enable and disable commands and cogs.
+
+``g^contact`` Sends a message to the owner.
+
+``g^embedset`` Commands for toggling embeds on or off.
+
+``g^ignore`` Commands to add servers or channels to the ignore list.
+
+``g^localallowlist`` Commands to manage the server specific allowlist.
+
+``g^localblocklist`` Commands to manage the server specific blocklist.
+
+``g^set`` Commands for changing Galactic's settings.
+
+``g^unignore`` Commands to remove servers or channels from the ignore list
+
+------------
+Counting
+------------
+
+``g^counting`` Settings for Counting
+
+``g^topcounters`` Show the Counting leaderboard in this server.
+
+------------
+Custom Help
+------------
+
+``g^findcategory`` Get the category where the command is present
+
+------------
+Ping
+------------
+
+``g^ping`` View bot latency.
+
+
 
 
 ------------
