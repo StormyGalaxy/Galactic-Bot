@@ -1,4 +1,4 @@
-blank_issues_enabled: false
+blank_issues_enabled: true
 contact_links:
   - name: Discord Bot Support
     url: https://discord.gg/uRvPVf7Kcp
@@ -6,3 +6,6 @@ contact_links:
   - name: Trello
     url: https://trello.com/b/37CS9Aju
     about: Known issues and planned features for the bot.
+  - name: Docs
+    url: https://galactic-bot.readthedocs.io
+    about: Get the documentation for Galactic(WIP)
