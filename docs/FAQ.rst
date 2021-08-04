@@ -65,8 +65,8 @@ Q. The premium bot is leaving my server once I invite it. Why is this?
 A: You must run the following command in the support server: ^botaccess servers add <SERVERID>
 
 
-.. warning:: To find your server id, right click the server name(if you have developer tools on) and click Copy ID
+.. note:: To find your server id, right click the server name(if you have developer tools on) and click Copy ID
 
-.. warning:: To turn on developer mode go to User Settings under App Settings click Advanced then make sure that Developer Mode is turned on. 
+.. note:: To turn on developer mode go to User Settings under App Settings click Advanced then make sure that Developer Mode is turned on. 
 
 .. image:: images/devmode.png
