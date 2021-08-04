@@ -35,4 +35,6 @@ A: You must run the following command in the support server: ^botaccess servers 
 To find your server id, right click the server name(if you have developer tools on) and click Copy ID
 
 To turn on developer mode go to User Settings under App Settings click Advanced then make sure that Developer Mode is turned on. 
-![https://i.imgur.com/0UPMD36.png](https://i.imgur.com/0UPMD36.png)
+
+
+.. image:: images/devmode.png
