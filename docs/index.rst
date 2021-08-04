@@ -52,6 +52,4 @@ Welcome to the Galactic Bot Wiki!
 
    FAQ
    
-
-   
 .. attention:: The docs are still in the works, and this is **NOT** the final product/docs
