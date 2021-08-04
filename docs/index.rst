@@ -45,5 +45,13 @@ Welcome to the Galactic Bot Wiki!
    :caption: Vote for Galactic
 
    vote
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Frequently Asked Questions
+
+   FAQ
+   
+
    
 .. attention:: The docs are still in the works, and this is **NOT** the final product/docs
