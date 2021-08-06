@@ -6,6 +6,10 @@
 Welcome to the Galactic Bot Wiki!
 =====================================
 
+.. image:: https://i.imgur.com/w8ZtxL6.png
+    :target: https://github.com/StormyGalaxy/Galactic-Bot
+    :alt: Galactic Bot
+    
 .. image:: https://discordapp.com/api/guilds/836363260922953729/widget.png?style=shield
     :target: https://discord.gg/uRvPVf7Kcp
     :alt: Discord Server
