@@ -53,7 +53,7 @@ Q: How do I invite the premium bot?
 ~~~~~~~~~~~~~~
 
 
-A: If you have bought it or have won it from a giveaway, you should automatically receive an invite for it, if not run ^botaccess invite in the support server!
+A: If you have bought it or have won it from a giveaway, you should automatically receive an invite for it, if not run ``^botaccess invite`` in the support server!
 
 
 
