@@ -23,7 +23,7 @@ sys.path.insert(0, os.path.abspath(".."))
 # -- Project information -----------------------------------------------------
 
 project = "Galactic Bot"
-copyright = "2021, StormyGalaxy"
+copyright = "2021-2022, StormyGalaxy4"
 author = "StormyGalaxy4"
 
 
