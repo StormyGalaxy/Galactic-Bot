@@ -15,7 +15,10 @@
 <a href='https://galactic-bot.readthedocs.io/en/latest/?badge=latest'>
     <img src='https://readthedocs.org/projects/galactic-bot/badge/?version=latest' alt='Documentation Status' />
 </a>
-
+  </a>
+<a href='https://galactic-bot.readthedocs.io/en/latest/?badge=latest'>
+    <img src="https://healthchecks.io/b/2/b0c8c8c6-fe0f-478f-987d-53753f27eb5c.svg" alt="Galactic Bot">
+</a>
 
 # Galactic Bot
 
