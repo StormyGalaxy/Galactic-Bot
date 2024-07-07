@@ -6,6 +6,10 @@
 Welcome to the Galactic Bot Wiki!
 =====================================
 
+.. image:: https://i.imgur.com/w8ZtxL6.png
+    :target: https://github.com/StormyGalaxy/Galactic-Bot
+    :alt: Galactic Bot
+    
 .. image:: https://discordapp.com/api/guilds/836363260922953729/widget.png?style=shield
     :target: https://discord.gg/uRvPVf7Kcp
     :alt: Discord Server
@@ -39,5 +43,17 @@ Welcome to the Galactic Bot Wiki!
    :caption: Bot Commands
 
    commands/BotCommands
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Vote for Galactic
+
+   vote
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Frequently Asked Questions
+
+   FAQ
    
 .. attention:: The docs are still in the works, and this is **NOT** the final product/docs
