@@ -28,7 +28,7 @@ Welcome to the Galactic Bot Wiki!
 
 .. image:: https://healthchecks.io/b/2/b0c8c8c6-fe0f-478f-987d-53753f27eb5c.svg
     :target: https://galacticbot.statuspage.io/
-    :alt: Bot Statys
+    :alt: Bot Status
 
 .. toctree::
    :maxdepth: 2
