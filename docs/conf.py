@@ -6,6 +6,8 @@ project = 'Galactic Bot'
 copyright = '2024, StormyGalaxy'
 author = 'StormyGalaxy'
 
+html_title = "Galactic Bot"
+
 release = '0.1'
 version = '0.1.0'
 
