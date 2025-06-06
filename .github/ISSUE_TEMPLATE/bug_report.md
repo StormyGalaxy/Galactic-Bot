@@ -2,7 +2,7 @@
 name: Bug report
 about: Create a report to help us improve the bot
 title: ''
-labels: ''
+labels: Bug
 assignees: ''
 
 ---
@@ -11,7 +11,6 @@ assignees: ''
 A clear and concise description of what the bug is.
 
 **Which Bot?**
-- [ ] Premium Bot
 - [ ] Free Bot
 
 **To Reproduce**

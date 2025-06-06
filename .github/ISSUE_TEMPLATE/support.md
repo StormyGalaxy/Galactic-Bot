@@ -2,7 +2,7 @@
 name: Support
 about: Ask for help about configuration or available features
 title: ''
-labels: ''
+labels: Question
 assignees: ''
 
 ---

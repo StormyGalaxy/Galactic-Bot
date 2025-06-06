@@ -2,7 +2,7 @@
 name: Feature Request
 about: Request a feature to be added to the bot
 title: ''
-labels: ''
+labels: Enhancement
 assignees: ''
 
 ---
@@ -15,7 +15,8 @@ assignees: ''
 **Explain the feature that you want added:**
 Describe the feature and why you want it
 
-**What will the command name be? ex: help**
+**What will the command name be?**
+ex: help
 
 **How will it benefit the community?:**
 Explain what it will do to benefit the community
