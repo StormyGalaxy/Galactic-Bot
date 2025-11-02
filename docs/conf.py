@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'Galactic Bot'
-copyright = '2024, StormyGalaxy'
+copyright = '2025, StormyGalaxy'
 author = 'StormyGalaxy'
 
 html_title = "Galactic Bot"
