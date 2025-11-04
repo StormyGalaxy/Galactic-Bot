@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/StormyGalaxy/Galactic-Bot"><img src="https://i.imgur.com/w8ZtxL6.png" alt="Galactic Bot"></a>
+  <a href="https://galacticbot.net"><img src="https://i.imgur.com/w8ZtxL6.png" alt="Galactic Bot"></a>
 </h1>
 
 <p align="center">
